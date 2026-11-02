@@ -216,4 +216,4 @@ También se puede probar con Postman, Insomnia, Bruno o Thunder Client.
 
 ## Autor
 
-Rivero José Augusto
+AugustoRivero
